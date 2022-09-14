@@ -1,0 +1,37 @@
+
+1) Show Gondola System
+2) Add Car
+3) Update with Debug Info
+4) Set Station People
+5) Show Station Details
+0) Quit
+
+Choice:> Which type: 0-->Short, 1-->Long, 2-->Adapting:>
+
+1) Show Gondola System
+2) Add Car
+3) Update with Debug Info
+4) Set Station People
+5) Show Station Details
+0) Quit
+
+Choice:> Time: 0 min
+--------Start     Right: [ ID:1   1.0min 0/20 ](0)
+    Traveling Left: 
+    Traveling Right: 
+--------Station A 
+    Traveling Left: 
+    Traveling Right: 
+--------Station B 
+    Traveling Left: 
+    Traveling Right: 
+--------End       
+
+1) Show Gondola System
+2) Add Car
+3) Update with Debug Info
+4) Set Station People
+5) Show Station Details
+0) Quit
+
+Choice:> 

@@ -1,0 +1,35 @@
+Visitor framework requirements checked	24 		______
+Tier 1: menu working	12
+     Displays a 5 by 5 empty grid properly	   	______
+     Displays the rest properly 	   			______
+Tier 2: set and unset at 0, 0	16
+     Can set empty 	    						______
+     Can set food 	    						______
+     Can set habitat 	    					______
+     Can set fish 	    						______
+Tier 3: handles bad input at this point	15
+	Handles bad input at the menu level	  		______
+	Handles bad input at the object level	  	______
+	Handles bad input at location level	  		______
+	Handles bad input with 1 try-catch	  		______
+Tier 4: set and unset at x, y	12
+     Can set empty at given location	    	______
+     Can set food at given location	    		______
+     Can set habitat at given location	    	______
+     Can set fish at given location	    		______
+Tier 5: default grid displays properly 	15  	______
+Tier 6: count types* 20							______
+Tier 7: color fish*	18
+     Colors any fish, any color	   				______
+     Colors all fish, any color in one command	______
+     Colors all fish correctly   				______
+Tier 8: Feed Fish	18
+     Any fish\food changed	  					______
+     Fish lives\dies correctly	  				______
+     Any food removed next to a fish	  		______
+     Correct food removed for each fish	  		______
+     Uses a second visitor*						______
+	 
+	 
+* These have their tags added					______
+

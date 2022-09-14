@@ -1,0 +1,242 @@
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m4[0m
+ file name:> [34;1mfullClean.xml[0m
+ 
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m6[0m
+ TODO
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1mfur[0m
+ java.lang.NumberFormatException: For input string: "fur"
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m6[0m
+ TODO
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1mcarnivore[0m
+ java.lang.NumberFormatException: For input string: "carnivore"
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m6[0m
+ TODO
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1mfangs[0m
+ java.lang.NumberFormatException: For input string: "fangs"
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m6[0m
+ TODO
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1maquatic[0m
+ java.lang.NumberFormatException: For input string: "aquatic"
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m6[0m
+ TODO
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1mground feeder[0m
+ java.lang.NumberFormatException: For input string: "ground feeder"
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m6[0m
+ TODO
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1mbroad head[0m
+ java.lang.NumberFormatException: For input string: "broad head"
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m6[0m
+ TODO
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1mxyz[0m
+ java.lang.NumberFormatException: For input string: "xyz"
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m1[0m
+ what class:> [34;1maves[0m
+ 
+what order:> [34;1mPasseriformes[0m
+ 
+added order
+continue (y/n):> [34;1my[0m
+
+what family:> [34;1mTurdidae[0m
+ 
+added family
+continue (y/n):> [34;1my[0m
+
+add feature (y/n):> [34;1my[0m
+
+what feature:> [34;1msings[0m
+ 
+add feature (y/n):> [34;1mn[0m
+
+add summary (y/n):> [34;1mn[0m
+ 
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m2[0m
+ Class: mammalia
+Feature: 
+Class: aves
+Feature: 
+--Order: passeriformes
+--Feature: 
+----Family: turdidae
+----Feature: sings
+------Genus: 0  Species: 0  examples: 
+Class: Chondrichthyes
+Feature: 
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m6[0m
+ TODO
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1msings[0m
+ java.lang.NumberFormatException: For input string: "sings"
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m0[0m
+ 

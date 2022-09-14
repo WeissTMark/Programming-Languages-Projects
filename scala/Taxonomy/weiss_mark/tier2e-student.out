@@ -1,0 +1,64 @@
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> file name:> 
+could not open file: doesnotexist.xml (the system cannot find the file specified)
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> file name:> 
+invalid xml file. needs to be an taxonomy xml file
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> file name:> 
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> Class: mammal
+Feature: 
+Class: aves
+Feature: 
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> 

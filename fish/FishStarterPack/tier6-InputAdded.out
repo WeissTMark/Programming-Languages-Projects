@@ -1,0 +1,262 @@
+
+
+[30m⛶[0m[30m⛶[0m[30m⛶[0m[30m⛶[0m[30m⛶[0m
+[30m⛶[0m[30m⛶[0m[30m⛶[0m[30m⛶[0m[30m⛶[0m
+[30m⛶[0m[30m⛶[0m[30m⛶[0m[30m⛶[0m[30m⛶[0m
+[30m⛶[0m[30m⛶[0m[30m⛶[0m[30m⛶[0m[30m⛶[0m
+[30m⛶[0m[30m⛶[0m[30m⛶[0m[30m⛶[0m[30m⛶[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m2[0m
+
+[30m✽[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m∝[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m✽[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m∝[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m3[0m
+ Empty: 7
+Habitats: 3
+Food: 11
+Fish: 4
+
+
+[30m✽[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m∝[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m✽[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m∝[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m1[0m
+ Input area type 1) habitat 2) fish 3) food #) empty:> [34;1m1[0m
+ Input location (x y):> [34;1m1 1[0m
+
+[30m✽[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m☁[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m✽[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m∝[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m1[0m
+ Input area type 1) habitat 2) fish 3) food #) empty:> [34;1m2[0m
+ Input location (x y):> [34;1m2 2[0m
+
+[30m✽[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m☁[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m∝[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m∝[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m1[0m
+ Input area type 1) habitat 2) fish 3) food #) empty:> [34;1m3[0m
+ Input location (x y):> [34;1m3 3[0m
+
+[30m✽[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m☁[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m∝[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m✽[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m1[0m
+ Input area type 1) habitat 2) fish 3) food #) empty:> [34;1m4[0m
+ Input location (x y):> [34;1m1 1[0m
+
+[30m✽[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m⛶[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m∝[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m✽[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m1[0m
+ Input area type 1) habitat 2) fish 3) food #) empty:> [34;1m4[0m
+ Input location (x y):> [34;1m2 2[0m
+
+[30m✽[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m⛶[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m⛶[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m✽[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m3[0m
+ Empty: 9
+Habitats: 3
+Food: 11
+Fish: 2
+
+
+[30m✽[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m⛶[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m⛶[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m✽[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m1[0m
+ Input area type 1) habitat 2) fish 3) food #) empty:> [34;1m1[0m
+ Input location (x y):> [34;1m0 0[0m
+
+[30m☁[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m⛶[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m⛶[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m✽[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m1[0m
+ Input area type 1) habitat 2) fish 3) food #) empty:> [34;1m1[0m
+ Input location (x y):> [34;1m4 4[0m
+
+[30m☁[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m⛶[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m⛶[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m✽[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m1[0m
+ Input area type 1) habitat 2) fish 3) food #) empty:> [34;1m1[0m
+ Input location (x y):> [34;1m4 0[0m
+
+[30m☁[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m⛶[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m⛶[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m✽[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m1[0m
+ Input area type 1) habitat 2) fish 3) food #) empty:> [34;1m1[0m
+ Input location (x y):> [34;1m0 4[0m
+
+[30m☁[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m⛶[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m⛶[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m✽[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m1[0m
+ Input area type 1) habitat 2) fish 3) food #) empty:> [34;1m3[0m
+ Input location (x y):> [34;1m0 0[0m
+
+[30m✽[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m⛶[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m⛶[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m✽[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m3[0m
+ Empty: 9
+Habitats: 3
+Food: 11
+Fish: 2
+
+
+[30m✽[0m[30m✽[0m[30m✽[0m[30m⛶[0m[30m☁[0m
+[30m✽[0m[30m⛶[0m[30m✽[0m[30m⛶[0m[30m⛶[0m
+[30m✽[0m[30m✽[0m[30m⛶[0m[30m✽[0m[30m✽[0m
+[30m⛶[0m[30m⛶[0m[30m✽[0m[30m✽[0m[30m∝[0m
+[30m☁[0m[30m∝[0m[30m⛶[0m[30m⛶[0m[30m☁[0m
+
+1) Set Area
+2) Make Default Grid
+3) Count Types
+4) Color Fish
+5) Feed Fish
+0) Quit
+
+Choice:> [34;1m0[0m
+
